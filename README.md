@@ -23,5 +23,8 @@ SRS 중 score가 100점 '미만'인 부분이 이해되지 않습니다.
 - java /service/record/RecordMaker 100
 - java /service/record/RecordMaker 1000
 - java /service/record/RecordMaker 5000
+- java /service/record/RecordMaker 20000
+- java /service/record/RecordMaker 50000
+- java /service/record/RecordMaker 99999
 
 => service.record 패키지로 포함되어 있음.
